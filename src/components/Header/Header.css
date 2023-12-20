@@ -1,0 +1,6 @@
+.header-content {
+    min-height: 20vh;
+    background: linear-gradient(rgba(173, 216, 230, 0.2), rgba(173, 216, 230, 0.4)) center/cover no-repeat;
+    flex-direction: column;
+}
+
